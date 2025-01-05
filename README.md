@@ -24,8 +24,8 @@ A simple and interactive web application to track your daily income and expenses
 ---
 
 ## **Demo**
-🌐 [Live Demo](#)  
-(Replace `#` with the link to your hosted project, e.g., GitHub Pages, Netlify, or Vercel.)
+🌐 [Live Demo](https://sanchitha5.github.io/expense-tracker/)  
+
 
 ---
 
